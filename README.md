@@ -14,7 +14,7 @@ Result:
 # Note
 * written in python 2
 * you may want to change `Caffe_Root` in mnist_test.py if you installed somewhere else
-
+* the test is running on GPU by default, you can change `caffe.set_mode_gpu()` to `caffe.set_mode_cpu()` if necessary
 
 
 2017
