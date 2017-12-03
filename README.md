@@ -2,8 +2,8 @@ it's hard to find any document about how to use the trained model of MNIST in ca
 
 so I wrote this.if it helps you. pls give me a star or msg.thanks!
 
-2017-03-22 in China.ShenZhen.
+2017
 
 
 
-by 9crk
+by 9crk & SunnyBingoMe
